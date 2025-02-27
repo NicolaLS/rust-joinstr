@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "joinstr",
+    "cli",
+]
+resolver = "2"
